@@ -1,7 +1,7 @@
 # Java compiled files
 *.class
 *.jar
-
+!gradle/wrapper/gradle-wrapper.jar
 # Build output
 build/
 out/
